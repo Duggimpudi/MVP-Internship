@@ -4,6 +4,9 @@ The concepts learnt from my internship were:
 2. **Build Reports Using SSRS** : With the structured data that's been loaded into the datawarehouse, I built reports using that data in SSRS
 3. **Visualization Reports using Power BI** : Using the same data I built dashboards using Power BI and a connection was made to open SSRS reports from Power BI.
 
+The data analysed was:
+
+* The property, Crime, Schools, Transport in Australia
 
 The files Included:
 
